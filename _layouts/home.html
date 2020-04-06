@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<script>
+  $(document).ready(function () {
+    $("#typewriteText").typewrite({
+      actions: [
+        {
+          type:
+            "Hello! 您好! Välkommen! Bonjour！Hallo！ こんにちは！ Ciao！ Здравствуйте! مرحبا!",
+        },
+      ],
+    });
+  });
+</script>
+
+<div class="col-lg-8 offset-md-2">
+  <div class="jumbotron" style="text-align: center;">
+    <h1 class="display-4">Welcome to my personal homepage!</h1>
+    <h3>Zhengyu Wang | Junior Developer | Stockholm | Sweden</h3>
+    <p class="lead" id="typewriteText"></p>
+    <button class="btn btn-warning btn-lg">
+      <a href="/about.html">About Me</a>
+    </button>
+  </div>
+</div>
