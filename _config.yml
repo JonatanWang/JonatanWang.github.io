@@ -27,16 +27,16 @@ author_website_url: "http://JonatanWang.github.io"
 
 author_work_experiences:
   - company_name: Cygni
-    company_logo: google.png
-    company_url: https://google.com
-    designation: Software Engineer
-    description: Worked on various Google Products
+    company_logo: cygni.png
+    company_url: https://www.cygni.com
+    designation: Consultant / IT System Developer
+    description: Worked on various onsite projects
     visibility: true
-  - company_name: Microsoft
-    company_logo: microsoft.png
-    company_url: https://microsoft.com
-    designation: Azure Developer
-    description: Worked on various Azure Cloud Products
+  - company_name: Scania
+    company_logo: scania.png
+    company_url: https://www.scania.com
+    designation: C# & Python Developer
+    description: Worked on C# & Python projects
     visibility: true
 
 author_education_details:
