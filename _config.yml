@@ -53,12 +53,12 @@ author_project_details:
     project_description: A Qustionaire application built by Python for integration of industrial software used by Scania
     project_url: https://pypi.org/project/jobbergate
     visibility: true
-  - project_thumbnail: ackebrink.PNG
+  - project_thumbnail: ackebrink.png
     project_title: Ackebrink Customer Management System
     project_description: A Platform built by PHP for internal client & consultant Manangement
     project_url: https://www.ackebrink.se
     visibility: true
-  - project_thumbnail: connected-services.PNG
+  - project_thumbnail: connected-services.png
     project_title: Scania Connected Services
     project_description: A groupd of web applications built by C# for driver & fleet manangement
     project_url: https://www.scania.com/global/en/home/products-and-services/connected-services.html
