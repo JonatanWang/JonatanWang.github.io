@@ -133,7 +133,7 @@ defaults:
 
 # Build settings
 
-theme: devlopr
+theme: theme: jekyll-theme-merlot
 plugins:
   - jekyll-feed
   - jekyll-paginate
